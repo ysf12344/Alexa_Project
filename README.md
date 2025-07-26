@@ -1,4 +1,4 @@
-# Python_Mini_Projects_Youssef
+# Basic Alexa Project
 Mini project based on Python
 🎙️ Voice Assistant in Python (Arabic + YouTube Music Integration)
 
