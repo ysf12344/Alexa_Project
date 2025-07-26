@@ -46,7 +46,7 @@ def play(song):
 # # API information
 
 # # API key
-# DEVELOPER_KEY = "AIzaSyB0rMydH-sYMw7J0HPXKaz3h2RDXHHjkKA"
+# DEVELOPER_KEY = "xx"
 # # API client
 # youtube = googleapiclient.discovery.build(api_service_name, api_version, developerKey = DEVELOPER_KEY)
 
